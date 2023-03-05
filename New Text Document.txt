@@ -1,2 +1,0 @@
-<!Doctype>
-<h1> This is my nginx project</h1>
